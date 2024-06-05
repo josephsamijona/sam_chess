@@ -1,5 +1,6 @@
 pygame
 PyOpenGL
 pygame-menu
-chess
+chess==1.9.4
+tqdm==4.57.0
 
